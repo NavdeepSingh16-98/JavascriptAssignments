@@ -10,9 +10,9 @@
 
 - [Accordion](https://github.com/NavdeepSingh16-98/iNeuronFulllStackJavascriptAssignments/tree/accordion)
 
-- [NameConversion] (https://github.com/NavdeepSingh16-98/iNeuronFulllStackJavascriptAssignments/tree/name-converter)
+- [NameConversion](https://github.com/NavdeepSingh16-98/iNeuronFulllStackJavascriptAssignments/tree/name-converter)
 
-- [ColorChanger] (https://github.com/NavdeepSingh16-98/iNeuronFulllStackJavascriptAssignments/tree/color-changer)
+- [ColorChanger](https://github.com/NavdeepSingh16-98/iNeuronFulllStackJavascriptAssignments/tree/color-changer)
 
 - [PasswordGenerator](https://github.com/NavdeepSingh16-98/iNeuronFulllStackJavascriptAssignments/tree/password-generator)
 
